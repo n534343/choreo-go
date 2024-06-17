@@ -21,15 +21,15 @@
                         "dest":5001
                     },
                     {
-                        "path":"/vless",
+                        "path":"/vless-2024",
                         "dest":5002
                     },
                     {
-                        "path":"/vmess",
+                        "path":"/vmess-2024",
                         "dest":5003
                     },
                     {
-                        "path":"/trojan",
+                        "path":"/trojan-2024",
                         "dest":5004
                     },
                     {
@@ -76,7 +76,7 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/vless"
+                    "path":"/vless-2024"
                 }
             },
             "sniffing":{
@@ -104,7 +104,7 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/vmess"
+                    "path":"/vmess-2024"
                 }
             },
             "sniffing":{
@@ -132,7 +132,7 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/trojan"
+                    "path":"/trojan-2024"
                 }
             },
             "sniffing":{
